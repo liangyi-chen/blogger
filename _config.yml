@@ -105,5 +105,8 @@ friends: [
     },{
         title: "古书",
         href: "https://ctext.org/zhs"
+    },{
+        title: "Learn Go",
+        href: "https://online-go.com/learn-to-play-go"
     }
 ]
